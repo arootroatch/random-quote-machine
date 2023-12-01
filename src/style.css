@@ -1,2 +1,11 @@
 
+
+#wrapper, #tweet-quote, #new-quote, #quote-box{
+  transition: 2s;
+}
+
+#text, #author {
+  transition: 2s;
+  
+}
 /*# sourceMappingURL=style.css.map */
